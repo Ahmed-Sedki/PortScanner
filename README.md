@@ -1,5 +1,3 @@
-Sure, here's a more detailed and stylized version of the README:
-
 ---
 # 🔍 **Port Scanner - Unveiling the Open Doors**
 
@@ -8,7 +6,7 @@ This Python-based tool allows you to probe the digital doors, aka ports, on a gi
 
 ## 🚀 **Getting Started**
 
-Our Port Scanner is efficient and straightforward to use, requiring only Python 3. No additional Python packages are necessary, making the setup process quick and simple.
+This Port Scanner is efficient and straightforward to use, requiring only Python 3. No additional Python packages are necessary, making the setup process quick and simple.
 
 ### 📋 **Prerequisites**
 
